@@ -1,0 +1,10 @@
+Started by user [8mha:////4JdrvLtpaDJzPj9rLCHToHngsZR3BDvdL71Yy3snIX8IAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mAdmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/sample_build_job
+[sample_build_job] $ /bin/sh -xe /tmp/jenkins9410615514705230094.sh
++ date
+Tue Mar 28 18:34:40 UTC 2023
++ echo Build process sucessfully done...
+Build process sucessfully done...
+Triggering a new build of [8mha:////4NJvtar9LKUsJ24HwLJ4SgJbEin/pNJk2lP6udUgGT2+AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZx/az8JP3ixNyCnNT4lNSCnPzKeJAIAG2GVevMAAAA[0msample_deploy_job
+Finished: SUCCESS

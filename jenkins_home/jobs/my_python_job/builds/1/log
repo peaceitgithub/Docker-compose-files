@@ -1,0 +1,22 @@
+Started by user [8mha:////4JdrvLtpaDJzPj9rLCHToHngsZR3BDvdL71Yy3snIX8IAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mAdmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my_python_job
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/peaceitgithub/IT-.git
+ > git init /var/jenkins_home/workspace/my_python_job # timeout=10
+Fetching upstream changes from https://github.com/peaceitgithub/IT-.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git fetch --tags --force --progress -- https://github.com/peaceitgithub/IT-.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/peaceitgithub/IT-.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision f0c14c7f8bcea233994f6a80c0aa2ae73c957f2a (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f f0c14c7f8bcea233994f6a80c0aa2ae73c957f2a # timeout=10
+Commit message: "Merge pull request #6 from devopstia/develop"
+First time build. Skipping changelog.
+Finished: SUCCESS

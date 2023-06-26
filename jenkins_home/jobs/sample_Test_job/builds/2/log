@@ -1,0 +1,14 @@
+Started by upstream project "[8mha:////4NJvtar9LKUsJ24HwLJ4SgJbEin/pNJk2lP6udUgGT2+AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZx/az8JP3ixNyCnNT4lNSCnPzKeJAIAG2GVevMAAAA[0msample_deploy_job" build number [8mha:////4M3zcJb8zMJ3ZGJu2paOoCZ2APXzml2oNCQkbajqQSvaAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgn9rPwk/eLE3IKc1PiU1IKc/Mp4kIgxADd4PqfNAAAA[0m3
+originally caused by:
+ Started by upstream project "[8mha:////4ERZd8HjBKtlBM0nyCIe+Wj40Xtcdsw4BpR9xlSMOaXjAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgYx/az8JP3ixNyCnNT4pNLMnJR4kAAAxtUlsssAAAA=[0msample_build_job" build number [8mha:////4INHHkoUtqpJIFl+cHagc2k8Qk/CzZxuGMzBgt3KwuN6AAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBnH9rPwk/eLE3IKc1Pik0syclHiQgBEAbim92cwAAAA=[0m2
+ originally caused by:
+  Started by user [8mha:////4JdrvLtpaDJzPj9rLCHToHngsZR3BDvdL71Yy3snIX8IAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mAdmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/sample_Test_job
+[sample_Test_job] $ /bin/sh -xe /tmp/jenkins2347939484909030162.sh
++ date
+Tue Mar 28 18:35:00 UTC 2023
++ echo tested job cucessfully executed
+tested job cucessfully executed
+Triggering a new build of [8mha:////4HnUk5jzV5eDYHjaTpt7sMo0ZzaPk71Euhbj6WK4/YCjAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgZJ/az8JP3ixNyCnNT4otSc1MTi1JR4kBgAMvm88s4AAAA=[0msample_released_job
+Finished: SUCCESS

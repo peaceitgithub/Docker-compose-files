@@ -1,0 +1,15 @@
+Started by upstream project "[8mha:////4IhBGXdZ/d7aOksjtbjbNkEkrX8PeTkG9Ts3N0tLPnsQAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZR/az8JP3ixNyCnNT4kNTikngQHwALsDezygAAAA==[0msample_Test_job" build number [8mha:////4ERQBGFBqQJbCxoDRvKVPxmFb2Px4e4UWJvnYkQ+aucQAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBjH9rPwk/eLE3IKc1PiQ1OKSeBDfGACTqaHmywAAAA==[0m3
+originally caused by:
+ Started by upstream project "[8mha:////4NJvtar9LKUsJ24HwLJ4SgJbEin/pNJk2lP6udUgGT2+AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZx/az8JP3ixNyCnNT4lNSCnPzKeJAIAG2GVevMAAAA[0msample_deploy_job" build number [8mha:////4JaDJ8QTfOH5WXSrAxV4YL10aczDxD8kvI6uRVJjSfkCAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgn9rPwk/eLE3IKc1PiU1IKc/Mp4kIgJAJTtWjnNAAAA[0m4
+ originally caused by:
+  Started by upstream project "[8mha:////4ERZd8HjBKtlBM0nyCIe+Wj40Xtcdsw4BpR9xlSMOaXjAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgYx/az8JP3ixNyCnNT4pNLMnJR4kAAAxtUlsssAAAA=[0msample_build_job" build number [8mha:////4HwBQPNoNGbY8QLlIu6DXonkRMSiRISgDd1Mjc1l+X4OAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBnH9rPwk/eLE3IKc1Pik0syclHiQgDEA+Bm6rswAAAA=[0m3
+  originally caused by:
+   Started by user [8mha:////4JdrvLtpaDJzPj9rLCHToHngsZR3BDvdL71Yy3snIX8IAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mAdmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/sample_released_job
+[sample_released_job] $ /bin/sh -xe /tmp/jenkins15001247682185815492.sh
++ date
+Tue Mar 28 18:36:40 UTC 2023
++ echo release sample sucessfully executed
+release sample sucessfully executed
+Finished: SUCCESS

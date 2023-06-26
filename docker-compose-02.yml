@@ -1,0 +1,84 @@
+# JENKINS
+# DOCKER-COMPOSE -02
+
+# https://dev.to/andresfmoya/install-jenkins-using-docker-compose-4cab
+# docker run --name jenkins_marvellous -d -p 8070:8080 -p 8071:50000 -v ~/marvellous/jenkins01:/var/ jenkins/jenkins:lts
+
+version: '3'
+services:
+  jenkins:
+    image: jenkins/jenkins:lts
+    privileged: true
+    user: root
+    ports:
+      - 8072:8080
+      - 8073:50000
+    container_name: jenkins_marvellous02
+    volumes:
+      - ~/jenkins_marvellous02/jenkins02:/var/jenkins_home
+  sonarqube:
+    image: sonarqube
+    container_name: sonarqube_marvellous
+    ports:
+      - "9000:9000"
+  nexus:
+    image: nexusjpl/nexus-webapp:distributed.1.1.0a2
+    container_name: nexus_marvellous
+    ports:
+      - "8075:8081"
+  splunk:
+    image: splunk/splunk-amd64-linux:e73c56f930c5
+
+    container_name: splunk_marvellous
+    ports:
+      - "8000:8000"
+    environment:
+      - SPLUNK_START_ARGS=--accept-license
+      - SPLUNK_PASSWORD=Devops@2022
+  grafana:
+    image: grafana/grafana
+    container_name: grafana_marvellous
+    ports:
+      - "3000:3000"
+  postgres:
+    image: postgres
+    hostname: postgres
+    container_name: postgres_marvellous
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=marvellous
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=demodb
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin_marvellous
+    depends_on:
+      - postgres
+    ports:
+      - "5555:80"
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=pgadmin4@pgadmin.org
+      - PGADMIN_DEFAULT_PASSWORD=admin
+    restart: unless-stopped
+
+volumes:
+  postgres-data:
+
+
+
+      #  up
+
+      # docker-compose up -d
+
+     # down
+
+     # docker-compose down
+
+     # ps
+
+     # docker-compose ps 

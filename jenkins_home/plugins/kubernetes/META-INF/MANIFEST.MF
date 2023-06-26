@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Specification-Title: Kubernetes plugin
+Specification-Version: 0.0
+Implementation-Title: Kubernetes plugin
+Implementation-Version: 3900.va_dce992317b_4
+Group-Id: org.csanchez.jenkins.plugins
+Short-Name: kubernetes
+Long-Name: Kubernetes plugin
+Url: https://github.com/jenkinsci/kubernetes-plugin
+Plugin-Version: 3900.va_dce992317b_4
+Hudson-Version: 2.361.4
+Jenkins-Version: 2.361.4
+Plugin-Dependencies: caffeine-api:2.9.3-65.v6a_47d0f4d1fe,workflow-api:1
+ 208.v0cc7c6e0da_9e,workflow-cps:3618.v13db_a_21f0fcf;resolution:=option
+ al,workflow-durable-task-step:1223.v7f1a_98a_8863e,workflow-step-api:63
+ 9.v6eca_cd8c04a_a_,authentication-tokens:1.4,cloudbees-folder:6.758.vfd
+ 75d09eea_a_1,credentials-binding:523.vd859a_4b_122e6,credentials:1189.v
+ f61b_a_5e2f62e,durable-task:504.vb10d1ae5ba2f,jackson2-api:2.14.2-319.v
+ 37853346a_229,kubernetes-client-api:6.4.1-215.v2ed17097a_8e9,metrics:4.
+ 2.13-420.vea_2f17932dd6,plain-credentials:143.v1b_df8b_d3b_e48,structs:
+ 324.va_f5d6774f3a_d,variant:59.vf075fe829ccb,kubernetes-credentials:0.1
+ 0.0,pipeline-model-extensions:2.2118.v31fd5b_9944b_5;resolution:=option
+ al
+Plugin-Developers: Carlos Sanchez:carlos:carlos@apache.org
+Plugin-License-Name: Apache License 2.0
+Plugin-License-Url: https://www.apache.org/licenses/LICENSE-2.0
+Plugin-ScmUrl: https://github.com/jenkinsci/kubernetes-plugin
+

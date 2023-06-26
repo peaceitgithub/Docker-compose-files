@@ -1,0 +1,9 @@
+Started by user [8mha:////4JdrvLtpaDJzPj9rLCHToHngsZR3BDvdL71Yy3snIX8IAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mAdmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Test_job
+[Test_job] $ /bin/sh -xe /tmp/jenkins12318006189304064350.sh
++ date
+Tue Mar 28 17:40:29 UTC 2023
++ echo tested job cucessfully executed
+tested job cucessfully executed
+Finished: SUCCESS

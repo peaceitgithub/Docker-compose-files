@@ -1,0 +1,8 @@
+Started at Wed Apr 05 22:50:43 UTC 2023
+Checking jenkins_sripted_pipeline
+Checking my_python_job
+Checking sample_build_job
+Checking sample_deploy_job
+Checking sample_released_job
+Checking sample_Test_job
+Finished at Wed Apr 05 22:50:43 UTC 2023. 58ms
